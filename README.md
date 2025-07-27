@@ -14,7 +14,8 @@ Currently building and learning more about:
 - Cybersecurity
 
 ## Skills & Tools
-[![All Skills](https://skillicons.dev/icons?i=flutter,django,react,bootstrap,firebase,elasticsearch,sqlite,flutter,django,react,bootstrap,firebase,elasticsearch,linux,arch,windows,git,github,vscode,docker,aws,gcp,neovim,nginx,postman,powershell,regex,md,notion,obsidian,replit,selenium,opencv,wordpress,vite,kali&perline=6)](https://skillicons.dev)  
+[![All Skills](https://skillicons.dev/icons?i=flutter,django,react,bootstrap,firebase,elasticsearch,sqlite,linux,arch,windows,git,github,vscode,docker,aws,gcp,neovim,nginx,postman,powershell,regex,md,notion,obsidian,replit,selenium,opencv,wordpress,vite,kali&perline=6)](https://skillicons.dev)
+
 
 ## ☕ Support & Contact
 Reach me via issues, discussions, or [LinkedIn](https://www.linkedin.com/in/lucas-p-147513265/).   
