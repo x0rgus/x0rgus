@@ -17,6 +17,9 @@ Currently building and learning more about:
 [![All Skills](https://skillicons.dev/icons?i=flutter,django,react,bootstrap,firebase,elasticsearch,sqlite,flutter,django,react,bootstrap,firebase,elasticsearch,linux,arch,windows,git,github,vscode,docker,aws,gcp,neovim,nginx,postman,powershell,regex,md,notion,obsidian,replit,selenium,opencv,wordpress,vite,kali&perline=6)](https://skillicons.dev)  
 
 ## ☕ Support & Contact
+Reach me via issues, discussions, or [LinkedIn](https://www.linkedin.com/in/lucas-p-147513265/).   
+If you find my work useful, feel free to buy me a coffee:   
+<a href="https://coffe.ee/x0rgus" target="_blank">
+  <img src="https://raw.githubusercontent.com/x0rgus/x0rgus/refs/heads/main/coffee-btn.png" alt="Buy Me a Coffee" width="160"/>
+</a>
 
-If you find my work useful, feel free to [Buy Me a Coffee](https://coffe.ee/x0rgus).  
-Reach me via issues, discussions, or [LinkedIn](https://www.linkedin.com/in/lucas-p-147513265/)
