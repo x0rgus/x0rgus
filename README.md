@@ -1,11 +1,8 @@
 # Lucas P.
 [![Languages](https://skillicons.dev/icons?i=go,python,dart,js,mysql&perline=6)](https://skillicons.dev)  
 
-Software developer focused on backend, open source, and cybersecurity.  
+Software developer focused on backend, open source and cybersecurity.  
 Main stack: Go, Python, Flutter.  
-Linux and Windows user.
-
-I work with backend systems, APIs, CLI tools, and also contribute with technical writing and documentation.
 
 Currently building and learning more about:
 - System design and performance in Go
