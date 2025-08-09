@@ -17,7 +17,7 @@ Currently building and learning more about:
 ## ☕ Support & Contact
 Reach me via issues, discussions, or [LinkedIn](https://www.linkedin.com/in/lucas-p-147513265/).   
 If you find my work useful, feel free to buy me a coffee:   
-<a href="https://coffe.ee/x0rgus" target="_blank">
+<a href="https://buymeacoffee.com/x0rgus" target="_blank">
   <img src="https://raw.githubusercontent.com/x0rgus/x0rgus/refs/heads/main/coffee-btn.png" alt="Buy Me a Coffee" width="160"/>
 </a>
 
