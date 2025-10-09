@@ -2,7 +2,6 @@
 [![Languages](https://skillicons.dev/icons?i=go,python,dart,js,mysql&perline=6)](https://skillicons.dev)  
 
 Software developer focused on backend, open source and cybersecurity.  
-Main stack: Go, Python, Flutter.  
 
 Currently building and learning more about:
 - System design and performance in Go
