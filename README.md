@@ -9,8 +9,8 @@ Currently building and learning more about:
 - Cross-platform apps with Flutter
 - Cybersecurity
 
-## Skills & Tools
-[![All Skills](https://skillicons.dev/icons?i=flutter,django,react,bootstrap,firebase,elasticsearch,sqlite,linux,arch,windows,git,github,vscode,docker,aws,gcp,neovim,nginx,postman,powershell,regex,md,notion,obsidian,replit,selenium,opencv,wordpress,vite,kali&perline=6)](https://skillicons.dev)
+## Skills
+[![All Skills](https://skillicons.dev/icons?i=flutter,django,react,bootstrap,firebase,elasticsearch,sqlite,linux,arch,windows,git,github,vscode,docker,aws,gcp,neovim,nginx,postman,powershell,regex,md,notion,obsidian,replit,selenium,opencv,wordpress,vite,kali&perline=12)](https://skillicons.dev)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=x0rgus&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 
